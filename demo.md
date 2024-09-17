@@ -32,3 +32,13 @@ This is a link to [My linkin](https://www.linkedin.com/in/srivignesh-kavle/)
 
 This is an Image:
 ![Demo Image](img/web-developement.jpg)
+
+## Code
+
+We can add multi-line code by using `
+
+```
+function test(){
+    console.log("test");
+}
+```

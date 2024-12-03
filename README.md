@@ -1,13 +1,20 @@
-# http5114
-Workshops in Web Dev 
-Editing the readme file from the repo directly!!!
+# Workshops in Web Dev 
+## Program Outcomes Emphasized in this Course
+### Web Development (11491)
 
-# Intro to Repo - 10/09/2024
+1. Test, troubleshoot, and debug web applications to support requirements and meet Quality Assurance objectives.
 
-1. Create a gitHub account 
-2. Create a rew repo
-3. Open your terminal 
-4. Navigate your terminal to project destination
-5. Clone the repo using get clone "URL"
-6. Change the directory to the new folder 
-7. Open VSCode and point it to the same folder (code .)
+2. Communicate and collaborate with team members and stakeholders to ensure effective working relationships.
+
+3. Select and apply strategies for personal and professional development to enhance work performance.
+
+## Accreditation Standards
+There are no accreditation standards.
+
+## Course Learning Method(s)
+- Collaborative Learning
+
+## Learning Outcomes
+- Troubleshoot their progress during the past week.
+- Discuss their concerns about their learning.
+- Evaluate solutions to problems in their understanding of the program.
